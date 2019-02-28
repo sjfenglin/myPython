@@ -3,8 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1551243796964">
+      <file name="/Dummy.txt" timestamp="1551340384688">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/myPython/map_reduce_function.py" timestamp="1551340498823">
+        <mark key="a" line="3" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="2" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="/code.py" timestamp="1551086529009">
         <mark key="[" line="0" column="0" />
@@ -39,13 +46,13 @@
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>3</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>3</text>
       </register>
     </registers>
     <search>
