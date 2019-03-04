@@ -11,7 +11,7 @@ class Student():
 
 
     def say(self):
-        print("My name is {0}".format(self.name))
+        print("My name is {0}, my age is {1}".format(self.name,self.age))
 
 
 def sayHello():
