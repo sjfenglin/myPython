@@ -1,6 +1,12 @@
+from OOPCourse import p01
+
+
 def stu_key(name="No name", age=0, addr="No addr"):
     print("I am a student")
     print("我叫 {0}， 我今年 {1}岁了， 我住{2}".format(name, age, addr))
+
+
+print(p01.__dict__,'\n', '*' * 50)
 
 
 stu_key("sunjian",18,"Shanghai")
