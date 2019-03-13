@@ -90,4 +90,22 @@ def prod(x, y):
 print (reduce(prod, [2, 4, 5, 7, 12]))
 
 
+class sunjian(object):
+    name = '初始姓名'
+    age = 18
+
+    def say(self):
+        self.name = 'say name'
+        self.age = 188
+        ##print(self.name, '  *****  ',self.age)
+        return None
+
+
+yueyue = sunjian()
+print('\n 1 ',yueyue.name, yueyue.age)
+
+yueyue.say()
+print('\n 2 ',yueyue.name, yueyue.age)
+print('\n 3 ',sunjian.name, sunjian.age)
+
 
